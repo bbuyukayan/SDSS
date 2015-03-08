@@ -1,2 +1,0 @@
-# SDSS
-Senior Project
